@@ -1,2 +1,4 @@
 # SpringBootDemo
-Demo projekt using Spring Boot, Rest API, Hibernate, MySQL, Maven
+Demo project for **Rest Api** and **Rest Assured**.
+
+Also used Spring Boot, Hibernate, MySQL and Maven
